@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=123
+
+A little script that sum some values of a range of rows. That's all :)
+Sum.vim use the powerfull bc utility (you must install it!).
+The script work also with older version of vim... i tested it also under win32 and it work (of course you must install the porting of bc)
